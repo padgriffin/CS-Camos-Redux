@@ -1,0 +1,39 @@
+{
+  "ColorTexture": "xx_CounterStrike_GammaDoppler_Emerald",
+  "PBRTexture": "",
+  "CamoStrength": 1.0,
+  "CamoPBRStrength": 1.0,
+  "CamoMetallic": 0.1,
+  "CamoRoughness": 0.0,
+  "CamoSpecularity": 0.7,
+  "Scale": 1.5,
+  "UseUVProjection": false,
+  "UVScale": {
+    "x": 1.0,
+    "y": 1.0
+  },
+  "UVOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "TriplanarEdgeBlend": 0.25,
+  "TriplanarPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "SecondaryColorTexture": "",
+  "SecondaryPBRTexture": "",
+  "SecondaryCamoMaskCutoff": 0.1,
+  "SecondaryCamoMaskInvert": false,
+  "SecondaryCamoStrength": 1.0,
+  "SecondaryCamoPBRStrength": 1.0,
+  "SecondaryCamoMetallic": 1.0,
+  "SecondaryCamoRoughness": 1.0,
+  "SecondaryCamoSpecularity": 0.5,
+  "CamoMaskChannel": "metal",
+  "CamoMaskMin": 0.1,
+  "CamoMaskMax": 1.0,
+  "CamoMaskSharpness": 0.95,
+  "InvertCamoMask": false
+}
