@@ -1,0 +1,10 @@
+{
+  "name": "CS_Camos_Redux",
+  "author": "Padgriffin",
+  "version_number": "1.2.0",
+  "website_url": "",
+  "description": "Counter-Strike Skins in Camoshop 2.0!",
+  "dependencies": [
+    "NGA-CamoShop-2.0.0"
+  ]
+}
